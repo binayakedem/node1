@@ -1,0 +1,11 @@
+1: creation of the index file for understanding the server creation
+
+2: understanding of url
+
+3: there 5 types of http methods 
+delete
+get
+post 
+put
+patch
+
